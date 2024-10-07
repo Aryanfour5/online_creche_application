@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "6703548d6b0433aeb9c73bf8"
+  },
+  "name": "Aarav's Daycare",
+  "qualifications": [
+    "Bachelor's in Early Childhood Education"
+  ],
+  "experience": 5,
+  "certifications": [
+    "CPR",
+    "First Aid"
+  ],
+  "specialties": [
+    "Infants",
+    "Toddlers"
+  ],
+  "availability": [
+    {
+      "day": "Monday",
+      "time": "09:00 - 17:00"
+    },
+    {
+      "day": "Tuesday",
+      "time": "09:00 - 17:00"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      72.8777,
+      19.076
+    ]
+  },
+  "price_range": {
+    "min": 500,
+    "max": 1500
+  },
+  "ratings": [
+    {
+      "rating": 4,
+      "review_text": "Very caring staff!",
+      "date_posted": {
+        "$date": "2023-09-15T00:00:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6703548d6b0433aeb9c73bf9"
+  },
+  "name": "Kavya's Creche",
+  "qualifications": [
+    "Diploma in Childcare"
+  ],
+  "experience": 3,
+  "certifications": [
+    "First Aid"
+  ],
+  "specialties": [
+    "Pre-Schoolers",
+    "Infants"
+  ],
+  "availability": [
+    {
+      "day": "Wednesday",
+      "time": "08:00 - 16:00"
+    },
+    {
+      "day": "Thursday",
+      "time": "08:00 - 16:00"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.209,
+      28.6139
+    ]
+  },
+  "price_range": {
+    "min": 600,
+    "max": 1400
+  },
+  "ratings": [
+    {
+      "rating": 5,
+      "review_text": "Amazing facility and staff.",
+      "date_posted": {
+        "$date": "2023-08-10T00:00:00.000Z"
+      }
+    }
+  ]
+}]

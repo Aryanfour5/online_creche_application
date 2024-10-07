@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6703548e6b0433aeb9c73bfa"
+  },
+  "name": "Ravi Mehta",
+  "email": "ravi.mehta@example.com",
+  "password": "hashedpassword1",
+  "profile_details": {
+    "children_info": [
+      {
+        "name": "Aryan",
+        "age": 3
+      }
+    ]
+  },
+  "bookings": [],
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "6703548e6b0433aeb9c73bfb"
+  },
+  "name": "Nisha Sharma",
+  "email": "nisha.sharma@example.com",
+  "password": "hashedpassword2",
+  "profile_details": {
+    "children_info": [
+      {
+        "name": "Meera",
+        "age": 4
+      }
+    ]
+  },
+  "bookings": [],
+  "reviews": []
+}]

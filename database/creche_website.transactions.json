@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6703548f6b0433aeb9c73bfe"
+  },
+  "booking_id": {
+    "$oid": "6703548e6b0433aeb9c73bfc"
+  },
+  "parent_id": {
+    "$oid": "6703548e6b0433aeb9c73bfa"
+  },
+  "provider_id": {
+    "$oid": "6703548d6b0433aeb9c73bf8"
+  },
+  "payment_method": "PayPal",
+  "amount": 1200,
+  "status": "completed",
+  "transaction_date": {
+    "$date": "2024-10-07T03:25:03.580Z"
+  }
+}]

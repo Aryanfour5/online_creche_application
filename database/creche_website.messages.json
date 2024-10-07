@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6703548f6b0433aeb9c73bff"
+  },
+  "sender_id": {
+    "$oid": "6703548e6b0433aeb9c73bfa"
+  },
+  "receiver_id": {
+    "$oid": "6703548d6b0433aeb9c73bf8"
+  },
+  "content": "Hi, is the slot for next Tuesday available?",
+  "timestamp": {
+    "$date": "2024-10-07T03:25:03.894Z"
+  },
+  "status": "unread"
+}]

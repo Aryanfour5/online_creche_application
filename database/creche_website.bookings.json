@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6703548e6b0433aeb9c73bfc"
+  },
+  "parent_id": {
+    "$oid": "6703548e6b0433aeb9c73bfa"
+  },
+  "provider_id": {
+    "$oid": "6703548d6b0433aeb9c73bf8"
+  },
+  "booking_date": {
+    "$date": "2024-10-07T03:25:02.870Z"
+  },
+  "scheduled_date": {
+    "$date": "2024-10-15T00:00:00.000Z"
+  },
+  "status": "confirmed",
+  "total_price": 1200
+}]

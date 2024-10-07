@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "670354906b0433aeb9c73c01"
+  },
+  "provider_id": {
+    "$oid": "6703548d6b0433aeb9c73bf8"
+  },
+  "background_check": true,
+  "verification_documents": [
+    "link_to_document1.pdf",
+    "link_to_document2.pdf"
+  ],
+  "status": "verified"
+}]

@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "670354906b0433aeb9c73c00"
+  },
+  "title": "Tips for Selecting a Daycare in India",
+  "content": "Choosing a daycare involves checking certifications, staff qualifications...",
+  "category": "Childcare",
+  "author": "Admin",
+  "posted_date": {
+    "$date": "2023-05-20T00:00:00.000Z"
+  }
+}]
